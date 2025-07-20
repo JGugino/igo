@@ -1,4 +1,4 @@
-module www.github.com/JGugino/igo/engine
+module github.com/JGugino/igo/engine
 
 go 1.24.1
 
