@@ -1,6 +1,10 @@
 package main
 
-import "github.com/JGugino/igo"
+import (
+	"image/color"
+
+	"github.com/JGugino/igo"
+)
 
 func main() {
 	windows := igo.Windows{
@@ -10,5 +14,5 @@ func main() {
 		FPS:    60,
 	}
 
-	windows.CreateGameWindow()
+	windows.StartGame(color.White)
 }
