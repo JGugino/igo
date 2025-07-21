@@ -13,14 +13,12 @@ type Windows struct {
 	FPS    int
 }
 
-func (w *Windows) CreateGameWindow() {
+func (w *Windows) StartGame(clearColor color.RGBA) {
 	rl.InitWindow(int32(w.Width), int32(w.Height), w.Title)
 	defer rl.CloseWindow()
 
 	rl.SetTargetFPS(int32(w.FPS))
-}
 
-func (w *Windows) StartGameLoop(clearColor color.RGBA) {
 	for !rl.WindowShouldClose() {
 		rl.BeginDrawing()
 
