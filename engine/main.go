@@ -2,6 +2,10 @@ package main
 
 import rl "github.com/gen2brain/raylib-go/raylib"
 
+type Igo struct {
+	Windows Windows
+}
+
 func main() {
 
 	rl.InitWindow(800, 450, "raylib [core] example - basic window")
