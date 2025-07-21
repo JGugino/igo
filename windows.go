@@ -1,4 +1,4 @@
-package main
+package igo
 
 import (
 	"image/color"

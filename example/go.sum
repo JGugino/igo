@@ -1,5 +1,5 @@
-github.com/JGugino/igo/engine v0.0.0-20250720143013-e5b5d4629b26 h1:soGMFLrE9P5U2WcTLlZSDc2dYpSlVWv7XwMhhm2deig=
-github.com/JGugino/igo/engine v0.0.0-20250720143013-e5b5d4629b26/go.mod h1:L3avciUWmK4WFRsqot3ZiuGXYpzwtHJfK9bEtFpmvKA=
+github.com/JGugino/igo v0.0.0-20250721023707-5bcd588649a9 h1:rlnYeQCEZz1ZuZumVzeJyKKdRZNvEtSCqgC7VbaZGqM=
+github.com/JGugino/igo v0.0.0-20250721023707-5bcd588649a9/go.mod h1:MsxUMctv82bnwhEO5hCpYde+U/7n9aRjk89dWXJEZxo=
 github.com/ebitengine/purego v0.7.1 h1:6/55d26lG3o9VCZX8lping+bZcmShseiqlh2bnUDiPA=
 github.com/ebitengine/purego v0.7.1/go.mod h1:ah1In8AOtksoNK6yk5z1HTJeUkC1Ez4Wk2idgGslMwQ=
 github.com/gen2brain/raylib-go/raylib v0.55.1 h1:1rdc10WvvYjtj7qijHnV9T38/WuvlT6IIL+PaZ6cNA8=
